@@ -1,6 +1,6 @@
 //This class contains methods for performing selection sorting.
 
-name := "KUP_SBT"
+name := "KUP_Sorting"
 
 version := "0.1"
 
