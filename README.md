@@ -45,7 +45,11 @@ mvn test - To execute unit test cases
 mvn scalastyle:check - To execute scalastyle plugin for API and test cases
 
 Reverse Assignment-
-A class named Reverse using scala.
+I have created a Reverse class which reverses the list without mutable variable i.e Immutable variable.
+
+Immutable Variable: These variables are those variables which do not allow you to change a value after the declaration of a variable. Immutable variables are defined by using the val keyword.The first letter of data type should be in capital letter because in the Scala data type is treated as objects. For example- val Variable_name: Data_type = "value";
+
+Reverse: In Scala Stack class , the reverse() method is utilized to return a stack with the reverse order. Return Type: It returns a stack with the reverse order.
 
 Sorting Assignment-
-A class named Sorting using scala with implementation of selection sorting.
+I have created a Sorting class which reverses the list without mutable variable i.e Immutable variable.
