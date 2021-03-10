@@ -1,6 +1,9 @@
 # KUP_2021
+
+What Scala? Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java.
+
 In this Repository 
-I have created SBT and Maven Assignment.
+I have created SBT, Maven, Reverse and Selection sorting Assignment.
 
 SBT Assignment-
 A class named Calculator using scala which contains the implementation of the following operations:
@@ -40,3 +43,13 @@ mvn compile - To compile the code
 mvn package - To generate package
 mvn test - To execute unit test cases
 mvn scalastyle:check - To execute scalastyle plugin for API and test cases
+
+Reverse Assignment-
+I have created a Reverse class which reverses the list without mutable variable i.e Immutable variable.
+
+Immutable Variable: These variables are those variables which do not allow you to change a value after the declaration of a variable. Immutable variables are defined by using the val keyword.The first letter of data type should be in capital letter because in the Scala data type is treated as objects. For example- val Variable_name: Data_type = "value";
+
+Reverse: In Scala Stack class , the reverse() method is utilized to return a stack with the reverse order. Return Type: It returns a stack with the reverse order.
+
+Sorting Assignment-
+I have created a Sorting class which reverses the list without mutable variable i.e Immutable variable.
