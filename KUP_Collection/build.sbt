@@ -1,4 +1,4 @@
-//This class contains methods for performing reverse.
+//This class contains methods for performing collection.
 
 name := "KUP_Collection"
 
