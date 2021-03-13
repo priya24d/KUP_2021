@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReverseCall.ReverseImplTest, org.scalatest.tools.Framework$$anon$1@20f2182, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverseImplTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if numbers are entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if special symbols are entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if tabs/spaces are entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if decimal numbers are entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if empty string is[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 512 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseCall.ReverseImplTest[0m

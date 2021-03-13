@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Downloads/KUP_Reverse/target/scala-2.13/kup_sbt_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseCall[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/KUP_Reverse/target/scala-2.13/classes/ReverseCall[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseCall/Reverse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/KUP_Reverse/target/scala-2.13/classes/ReverseCall/Reverse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseCall/ReverseImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/KUP_Reverse/target/scala-2.13/classes/ReverseCall/ReverseImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseCall/Reverse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/KUP_Reverse/target/scala-2.13/classes/ReverseCall/Reverse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
