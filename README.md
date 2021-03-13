@@ -2,10 +2,10 @@
 
 What Scala? Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java./n
 
-In this Repository /n
+In this Repository 
 I have created SBT, Maven, Reverse, Selection sorting and Collection including table, lastelement, Stack and Queue Assignments and OOPS assignments./n
 
-<H3>1. SBT Assignment-</H3>/n
+<H3>1. SBT Assignment-</H3>
 A class named Calculator using scala which contains the implementation of the following operations:/n
 <ul>
 <li>Addition</li>
@@ -17,7 +17,7 @@ A class named Calculator using scala which contains the implementation of the fo
 <li>Modulue</li>
 <li>Maximum of Two</li>
 <li>Minimum of Two</li>
-/n
+
 A test file with test cases of all the operations.
 With following commands:-
 sbt compile - To compile the code
@@ -26,7 +26,7 @@ sbt scalastyleGenerateConfig - To generate scalastyle config file
 sbt scalastyle - To execute scalastyle plugin for API
 sbt test:scalastyle - To execute scalastyle plugin for test cases
 
-<H3>2. Maven Assignment-</H3>\n
+<H3>2. Maven Assignment-</H3>
 A class named Calculator using scala which contains the implementation of the following operations:\n
 <ul>
 <li>Addition</li>
@@ -39,7 +39,7 @@ A class named Calculator using scala which contains the implementation of the fo
 <li>Maximum of Two</li>
 <li>Minimum of Two</li>
 </ul>
-/n
+
 A test file with test cases of all the operations.
 With following commands:-
 mvn compile - To compile the code
