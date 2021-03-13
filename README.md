@@ -1,21 +1,22 @@
 # KUP_2021
 
-What Scala? Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java.
+What Scala? Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java.\n
 
-In this Repository 
-I have created SBT, Maven, Reverse, Selection sorting and Collection including table, lastelement, Stack and Queue Assignments and OOPS assignments.
+In this Repository \n
+I have created SBT, Maven, Reverse, Selection sorting and Collection including table, lastelement, Stack and Queue Assignments and OOPS assignments.\n
 
-<H3>1. SBT Assignment-</H3>
-A class named Calculator using scala which contains the implementation of the following operations:
-Addition
-Subtraction
-Multiplication
-Division
-Power
-Absolute
-Modulus
-Maximum of Two
-Minimum of Two
+<H3>1. SBT Assignment-</H3>\n
+A class named Calculator using scala which contains the implementation of the following operations:\n
+<ul>
+<li>Addition</li>
+<li>Subtraction</li>
+<li>Multiplication</li>
+<li>Division</li>
+<li>Power</li>
+<li>Absolute</li>
+<li>Modulue</li>
+<li>Maximum of Two</li>
+<li>Minimum of Two</li>
 
 A test file with test cases of all the operations.
 With following commands:-
@@ -25,17 +26,19 @@ sbt scalastyleGenerateConfig - To generate scalastyle config file
 sbt scalastyle - To execute scalastyle plugin for API
 sbt test:scalastyle - To execute scalastyle plugin for test cases
 
-<H3>2. Maven Assignment-</H3>
-A class named Calculator using scala which contains the implementation of the following operations:
-Addition
-Subtraction
-Multiplication
-Division
-Power
-Absolute
-Modulus
-Maximum of Two
-Minimum of Two
+<H3>2. Maven Assignment-</H3>\n
+A class named Calculator using scala which contains the implementation of the following operations:\n
+<ul>
+<li>Addition</li>
+<li>Subtraction</li>
+<li>Multiplication</li>
+<li>Division</li>
+<li>Power</li>
+<li>Absolute</li>
+<li>Modulus</li>
+<li>Maximum of Two</li>
+<li>Minimum of Two</li>
+</ul>
 
 A test file with test cases of all the operations.
 With following commands:-
@@ -54,12 +57,13 @@ Reverse: In Scala Stack class , the reverse() method is utilized to return a sta
 <H3>4. Sorting Assignment-</H3>
 I have created a Sorting class which reverses the list without mutable variable i.e Immutable variable.
 
-<H3>5. Collection Assignment-</H3>
-This Assignment consist of the following three questions:
-
-Find the last element of list with its index value(dont use inbuilt methods to extract last element directly)
-Print the table of each element in the List
-Implement Stack and Queue using Lists.
+<H3>5. Collection Assignment-</H3>\n
+This Assignment consist of the following three questions:\n
+<ul>
+<li>Find the last element of list with its index value(dont use inbuilt methods to extract last element directly)</li>
+<li>Print the table of each element in the List</li>
+<li>Implement Stack and Queue using Lists.</li>
+  </ul>
 
 
 <H3>5. OOPS Assignment-</H3>
