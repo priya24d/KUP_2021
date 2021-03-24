@@ -3,7 +3,7 @@
 What Scala? Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java.
 
 In this Repository 
-I have created SBT, Maven, Reverse, Selection sorting and Collection including table, lastelement, Stack and Queue Assignments and OOPS assignments.
+I have created SBT, Maven, Reverse, Selection sorting and Collection including table, lastelement, Stack and Queue Assignments, OOPS assignments and Generic queue class.
 
 <H3>1. SBT Assignment-</H3>
 A class named Calculator using scala which contains the implementation of the following operations:
@@ -71,6 +71,9 @@ This Assignment consist of the following three questions:
   <li> Performing queue </li>
   <li> Comparison </li>
   </ul>
+
+
+<H3>6. Generic Queue Class-</H3>
 
 
 
